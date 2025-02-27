@@ -1,0 +1,536 @@
+{
+  "song": [
+    {
+      "id": 8,
+      "SongTitle": "apt copy",
+      "ArtistName": "不知名歌手",
+      "Duration": "4:32",
+      "SongIssueDate": "2024",
+      "typeName": "灵魂音乐/Funk",
+      "AlbumName": "不知名专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-1.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/apt copy.m4a"
+    }
+    ,
+    {
+      "id": 9,
+      "SongTitle": "Cry For Me",
+      "ArtistName": "不知名歌手",
+      "Duration": "4:32",
+      "SongIssueDate": "2024",
+      "typeName": "灵魂音乐/Funk",
+      "AlbumName": "不知名专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-3.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/Cry_For_Me_(feat._Ami) copy.m4a"
+    },
+    {
+      "id": 10,
+      "SongTitle": "What About Love copy",
+      "ArtistName": "不知名歌手",
+      "Duration": "4:32",
+      "SongIssueDate": "2024",
+      "typeName": "乡村",
+      "AlbumName": "不知名专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-4.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/What About Love copy.m4a"
+    },
+    {
+      "id": 11,
+      "SongTitle": "暧昧",
+      "ArtistName": "不知名歌手",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "摇滚",
+      "AlbumName": "不知名专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-5.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/暧昧 copy.m4a"
+    },
+    {
+      "id": 12,
+      "SongTitle": "百年孤寂",
+      "ArtistName": "王菲",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "王菲专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-6.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/百年孤寂.mp3"
+    },
+    {
+      "id": 13,
+      "SongTitle": "必杀技",
+      "ArtistName": "古巨基",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "古典",
+      "AlbumName": "古巨基专辑",
+      "AlbumType": "粤语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-7.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/必杀技.mp3"
+    },
+    {
+      "id": 14,
+      "SongTitle": "冰河时代",
+      "ArtistName": "邓紫棋",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "邓紫棋专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-8.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/冰河时代.mp3"
+    },
+    {
+      "id": 15,
+      "SongTitle": "痴心绝对",
+      "ArtistName": "李圣杰",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "舞曲",
+      "AlbumName": "李圣杰专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-9.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/痴心绝对.mp3"
+    },
+    {
+      "id": 16,
+      "SongTitle": "岛屿",
+      "ArtistName": "汪苏泷",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "汪苏泷专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-10.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/岛屿 copy.mp3"
+    },
+    {
+      "id": 17,
+      "SongTitle": "得不到的温柔",
+      "ArtistName": "汪苏泷",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "轻音乐",
+      "AlbumName": "汪苏泷专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-11.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/得不到的温柔.mp3"
+    },
+    {
+      "id": 18,
+      "SongTitle": "孤独患者",
+      "ArtistName": "陈奕迅",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "陈奕迅专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-12.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/孤独患者 copy.mp3"
+    },
+    {
+      "id": 19,
+      "SongTitle": "过",
+      "ArtistName": "王嘉尔",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "爵士" ,
+      "AlbumName": "王嘉尔专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-13.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/过.mp3"
+    },
+    {
+      "id": 20,
+      "SongTitle": "记得",
+      "ArtistName": "林俊杰",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "林俊杰专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-14.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/记得.mp3"
+    },
+    {
+      "id": 21,
+      "SongTitle": "可惜没如果",
+      "ArtistName": "林俊杰",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "林俊杰专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-15.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/可惜没如果.mp3"
+    },
+    {
+      "id": 22,
+      "SongTitle": "明年今日",
+      "ArtistName": "陈奕迅",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "古典",
+      "AlbumName": "陈奕迅专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-16.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/明年今日.mp3"
+    },
+    {
+      "id": 23,
+      "SongTitle": "明天以後",
+      "ArtistName": "林峯、泳儿",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "古典",
+      "AlbumName": "林峯、泳儿专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-17.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/明天以後.mp3"
+    },
+    {
+      "id": 24,
+      "SongTitle": "命硬",
+      "ArtistName": "侧田",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "古典",
+      "AlbumName": "侧田专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-18.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/命硬.mp3"
+    },
+    {
+      "id": 25,
+      "SongTitle": "那个男孩",
+      "ArtistName": "汪苏泷",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "汪苏泷专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-19.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/那个男孩.mp3"
+    },
+    {
+      "id": 26,
+      "SongTitle": "晴",
+      "ArtistName": "汪苏泷",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "汪苏泷专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-20.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/晴.mp3"
+    },
+    {
+      "id": 27,
+      "SongTitle": "失忆症",
+      "ArtistName": "蔡健雅",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "蔡健雅专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-21.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/失忆症.mp3"
+    },
+    {
+      "id": 28,
+      "SongTitle": "十年",
+      "ArtistName": "陈奕迅",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "汪苏泷专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-22.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/十年.mp3"
+    },
+    {
+      "id": 29,
+      "SongTitle": "说谎",
+      "ArtistName": "林宥嘉",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "说唱",
+      "AlbumName": "林宥嘉专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-23.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/说谎.mp3"
+    },
+    {
+      "id": 30,
+      "SongTitle": "特别的人",
+      "ArtistName": "方大同",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "方大同专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-24.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/特别的人.mp3"
+    },
+    {
+      "id": 31,
+      "SongTitle": "无言感激",
+      "ArtistName": "谭咏麟",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "古典",
+      "AlbumName": "谭咏麟专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-25.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/无言感激.mp3"
+    },
+    {
+      "id": 32,
+      "SongTitle": "心墙",
+      "ArtistName": "林俊杰",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "林俊杰专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-26.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/心墙.mp3"
+    },
+    {
+      "id": 33,
+      "SongTitle": "一时的选择",
+      "ArtistName": "林俊杰",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "林俊杰专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-27.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/一时的选择.mp3"
+    },
+    {
+      "id": 34,
+      "SongTitle": "以后要做的事",
+      "ArtistName": "林俊杰",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "林俊杰专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-28.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/以后要做的事.mp3"
+    },
+    {
+      "id": 35,
+      "SongTitle": "因为爱情",
+      "ArtistName": "陈奕迅、王菲",
+      "Duration": "4:32",
+      "SongIssueDate": "2024","typeName": "流行",
+      "AlbumName": "王菲专辑",
+      "AlbumType": "国语流行",
+      "ReleaseDate": "2024",
+      "Description": "专辑介绍",
+      "imgURL": "/src/assets/music/img/MusicImg-29.webp",
+      "VideoURL": "",
+      "SongURL": "/src/assets/music/audio/因为爱情.mp3"
+    }
+  ],
+  "type":[
+    {
+      "id": 1,
+      "typeName": "日本动漫音乐",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-1.webp"
+    },
+    {
+      "id": 2,
+      "typeName": "灵魂音乐/Funk",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-2.webp"
+    },
+    {
+      "id": 3,
+      "typeName": "摇滚",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-3.webp"
+    },
+    {
+      "id": 4,
+      "typeName": "流行",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-4.webp"
+    },
+    {
+      "id": 5,
+      "typeName": "古典",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-5.webp"
+    },
+    {
+      "id": 6,
+      "typeName": "民谣",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-6.webp"
+    },
+    {
+      "id": 7,
+      "typeName": "电子",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-7.webp"
+    },
+    {
+      "id": 8,
+      "typeName": "舞曲",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-8.webp"
+    },
+    {
+      "id": 9,
+      "typeName": "说唱",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-9.webp"
+    },
+    {
+      "id": 10,
+      "typeName": "轻音乐",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-10.webp"
+    },
+    {
+      "id": 11,
+      "typeName": "爵士",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-11.webp"
+    },
+    {
+      "id": 12,
+      "typeName": "乡村",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-12.webp"
+    },
+    {
+      "id": 13,
+      "typeName": "古典",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-13.webp"
+    },
+    {
+      "id": 14,
+      "typeName": "民谣",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-14.webp"
+    },
+    {
+      "id": 15,
+      "typeName": "电子",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-15.webp"
+    },
+    {
+      "id": 16,
+      "typeName": "舞曲",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-16.webp"
+    },
+    {
+      "id": 17,
+      "typeName": "说唱",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-17.webp"
+    },
+    {
+      "id": 18,
+      "typeName": "轻音乐",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-18.webp"
+    },
+    {
+      "id": 19,
+      "typeName": "爵士",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-19.webp"
+    },
+    {
+      "id": 20,
+      "typeName": "乡村",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-20.webp"
+    },
+    {
+      "id": 21,
+      "typeName": "古典",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-21.webp"
+    },
+    {
+      "id": 22,
+      "typeName": "民谣",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-22.webp"
+    },
+    {
+      "id": 23,
+      "typeName": "电子",
+      "imgURL": "/src/assets/SelectViewImg/TypeSee/TypeSee-23.webp"
+    }
+
+
+
+  ],
+  "userData": [
+    {
+      "id": 1,
+      "uname": "admin",
+      "upw": "123456",
+      "name": "管理员",
+      "permission":1
+    },
+    {
+      "id": 2,
+      "uname": "user1",
+      "upw": "123456",
+      "name": "普通用户",
+      "permission":0
+    }
+  ]
+}

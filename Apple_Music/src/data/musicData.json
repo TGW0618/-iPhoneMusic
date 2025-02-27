@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "uname": "admin",
+      "upw": "123456",
+      "name": "管理员",
+      "permission":1
+    },
+    {
+      "id": 2,
+      "uname": "user1",
+      "upw": "123456",
+      "name": "普通用户",
+      "permission":0
+    }
+  ]
